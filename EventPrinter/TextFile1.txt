@@ -1,0 +1,16 @@
+﻿Ansettelse,Ansatt13,Etternavn,Utvikler,100,600000,1C,Team6,13
+Ansettelse,Ansatt15,Etternavn,Utvikler,100,600000,1C,Team7,15
+Ansettelse,Ansatt16,Etternavn,Utvikler,100,600000,1D,Team8,16
+Ansettelse,Ansatt17,Etternavn,Utvikler,100,600000,1D,Team9,17
+Ansettelse,Ansatt18,Etternavn,Utvikler,100,600000,1D,Team10,18
+Ansettelse,Ansatt19,Etternavn,Utvikler,100,600000,1C,Team5,19
+Ansettelse,Ansatt20,Etternavn,Utvikler,100,600000,1A,Team2,20
+Ansettelse,Ansatt21,Etternavn,Utvikler,100,600000,1A,Team3,21
+Ansettelse,Ansatt22,Etternavn,Utvikler,100,600000,X,TEEM,22
+Ansettelse,Ansatt24,Etternavn,Utvikler,100,600000,X,Team4,23
+Ansettelse,Ansatt25,Etternavn,Utvikler,100,600000,X,TEEM2,24
+Byttet team,til Team2,2
+Individuell lønnsøkning,50000,1
+Stillingsøkning,20%,2
+Stillingsreduksjon,50%,3
+Global lønnsøkning,2.5%
